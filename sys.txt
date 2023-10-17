@@ -1,0 +1,4 @@
+Solve
+x*x - z = u,
+x + u = 0,
+y - 5*z = 3 such that x = -1.
